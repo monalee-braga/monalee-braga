@@ -1,14 +1,14 @@
 ### Olá, eu sou Mona-Lee Braga ☺️
 ##
 
-- 💻 Desenvolvedora de sistemas
-- 👯 Estudando Typescript 
-- 🤔 Pronomes: ela/dela/she/ella
+- 💻 Desenvolvedora de sistemas web com conhecimentos em JavaScript, Python e SQL.
+- 👯 Estudando Typescrip, Node.js e Vue.js
+- :girl: Pronomes: ela/dela/she/ella
 
 
 <div>
   <a href="https://github.com/monalee-braga/monalee-braga"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monalee-braga"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monalee-braga&show_icons=true&theme=radical"/>
 </div>
 
 
