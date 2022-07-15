@@ -1,9 +1,9 @@
 ### Olá, eu sou Mona-Lee Braga ☺️
 ##
 
-- 💻 Desenvolvedora de sistemas web com conhecimentos em JavaScript, Python e SQL.
-- 👯 Estudando Typescrip, Node.js e Vue.js
-- :girl: Pronomes: ela/dela/she/ella
+- 💻 Desenvolvedora de sistemas web
+- 📔 Estudando Typescrip, Node.js e Vue.js
+- 👩 Pronomes: ela/dela/she/ella
 
 
 <div>
