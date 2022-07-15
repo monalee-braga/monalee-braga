@@ -2,7 +2,7 @@
 ##
 
 - 💻 Desenvolvedora de sistemas web
-- 📔 Estudando Typescrip, Node.js e Vue.js
+- 📔 Estudando Typescript, Node.js e Vue.js
 - 👩 Pronomes: ela/dela/she/ella
 
 
