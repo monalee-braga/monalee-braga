@@ -5,14 +5,6 @@
 - 📔 Estudando Node.js e TypeScript
 - 👩 Pronomes: ela/dela/she/ella
 
-
-<div>
-  <a href="https://github.com/monalee-braga/monalee-braga"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monalee-braga&show_icons=true&theme=dracula"/>
-  <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalee-braga&theme=dracula&layout=compact"/-->
-</div>
-
-
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
