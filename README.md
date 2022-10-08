@@ -2,10 +2,11 @@
  <h2>Mona-Lee Braga 🖤</h2>
 </div>
 
+<div align="center">
  <div>💻 Desenvolvedora de sistemas web </div>
  <div>📔 Estudando Node.js e TypeScript</div>
  <div>👩 Pronomes: ela/dela/she/ella</div>
- 
+</div>
 <br>
 
 <div align="center">
