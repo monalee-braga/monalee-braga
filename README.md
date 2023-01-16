@@ -4,14 +4,13 @@
 
 <div align="center">
  <div>💻 Desenvolvedora de sistemas web </div>
- <div>📔 Estudando Node.js e TypeScript</div>
+ <div>📔 Estudando Node.js</div>
  <div>👩 Pronomes: ela/dela/she/ella</div>
 </div>
 <br>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
