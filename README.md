@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <div>💻 Apaixonada por programação</div>
+ <div>💻 Apaixonada por programação web</div>
  <div>📔 Estudando Node.js</div>
  <div>👩 Pronomes: ela/dela/she/ella</div>
 </div>
