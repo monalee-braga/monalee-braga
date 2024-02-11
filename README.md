@@ -1,15 +1,7 @@
 
 ## Mona-Lee Braga 
 
-Sou uma Software Developer com foco em desenvolvimento web com expertise nas seguintes linguagens de programação, bancos de dados e frameworks:
-
-• JavaScript
-• Vue.js
-• HTML5, CSS3
-• Bootstrap
-• SQL Server
-• C#
-Atualmente, estou expandindo meu conhecimento em Node.js, visando me aprofundar na camada de back end. Estou comprometida em aprimorar constantemente minhas habilidades e me tornar uma Full Stack Developer.
+Sou uma Software Developer com expertise nas seguintes linguagens de programação, bancos de dados e frameworks: JavaScript, Vue.js, HTML5, CSS3, Bootstrap, SQL Server, C#. Atualmente, estou expandindo meu conhecimento em Node.js, visando me aprofundar na camada de back end. Estou comprometida em aprimorar constantemente minhas habilidades e me tornar uma Full Stack Developer.
 
 ### Conhecimentos
 <p align="center">
