@@ -6,7 +6,7 @@ Sou uma Software Developer com expertise nas seguintes linguagens de programa√ß√
 ### Conhecimentos
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,typescript,nodejs,cs,py,jquery,mysql,mongodb,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,typescript,nodejs,jquery,mysql,mongodb,git,github&theme=light" />
   </a>
 </p>
 
