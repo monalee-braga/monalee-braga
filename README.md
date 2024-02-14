@@ -14,7 +14,7 @@ Sou uma Software Developer com expertise nas seguintes linguagens de programa√ß√
 ### Contatos
 
 <p align="">
-  <a href="https://www.linkedin.com/in/monaleebraga/" target="_blank">
+  <a href="https://www.linkedin.com/in/monalee-braga/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
