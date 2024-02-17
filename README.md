@@ -3,7 +3,7 @@
 
 👩‍💻 Software Developer | Apaixonada por JavaScript
 
-Com uma sólida formação em desenvolvimento web, tenho habilidades avançadas em JavaScript, Vue.js, HTML5, CSS3 e Bootstrap. Ao longo da minha carreira, tenho trabalhado tanto no frontend quanto no backend, utilizando tecnologias como SQL Server e C# para criar aplicativos robustos e escaláveis.
+Com experiência em desenvolvimento web, tenho habilidades avançadas em JavaScript, Vue.js, HTML5, CSS3 e Bootstrap. Ao longo da minha carreira, tenho trabalhado tanto no frontend quanto no backend, utilizando tecnologias como SQL Server e C# para criar aplicativos robustos e escaláveis.
 
 Sou uma solucionadora de problemas criativa e comprometida com a entrega de resultados. Trabalho bem em equipe e estou sempre buscando aprender e evoluir minhas habilidades para enfrentar novos desafios de desenvolvimento.
 
