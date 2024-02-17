@@ -1,12 +1,19 @@
 
 ## Mona-Lee Braga 
 
-Sou uma Software Developer com expertise nas seguintes linguagens de programação, bancos de dados e frameworks: JavaScript, Vue.js, HTML5, CSS3, Bootstrap, SQL Server, C#. Atualmente, estou expandindo meu conhecimento em Node.js, visando me aprofundar na camada de back end. Estou comprometida em aprimorar constantemente minhas habilidades e me tornar uma Full Stack Developer.
+👩‍💻 Software Developer | Apaixonada por JavaScript
+
+Com uma sólida formação em desenvolvimento web, tenho habilidades avançadas em JavaScript, Vue.js, HTML5, CSS3 e Bootstrap. Ao longo da minha carreira, tenho trabalhado tanto no frontend quanto no backend, utilizando tecnologias como SQL Server e C# para criar aplicativos robustos e escaláveis.
+
+Sou uma solucionadora de problemas criativa e comprometida com a entrega de resultados. Trabalho bem em equipe e estou sempre buscando aprender e evoluir minhas habilidades para enfrentar novos desafios de desenvolvimento.
+
+Estou continuamente buscando me aperfeiçoar e expandir meu conjunto de habilidades. Atualmente, estou focada em aprofundar meu conhecimento em Node.js e estou entusiasmada com a possibilidade de aplicar essas novas habilidades em projetos futuros.
 
 ### Conhecimentos
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,typescript,nodejs,jquery,nestjs,prisma,mysql,mongodb,postgres,git,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,vue,jquery,nodejs,nestjs,prisma,mysql,mongodb,postgres,git,postman&theme=light" />
   </a>
 </p>
 
