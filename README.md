@@ -1,7 +1,7 @@
 
 ## Mona-Lee Braga 
 
-👩‍💻 Software Developer | Apaixonada por JavaScript
+👩🏽‍💻 Software Developer | Apaixonada por JavaScript
 
 Com experiência em desenvolvimento web, tenho habilidades intermediárias em JavaScript, Vue.js, HTML5, CSS3 e Bootstrap. Ao longo da minha carreira, tenho trabalhado tanto no frontend quanto no backend, utilizando tecnologias como SQL Server e C# para criar aplicativos robustos e escaláveis.
 
