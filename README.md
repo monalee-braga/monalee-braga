@@ -13,7 +13,7 @@ Estou continuamente buscando me aperfeiçoar e expandir meu conjunto de habilida
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,vue,jquery,nodejs,nestjs,prisma,mysql,mongodb,postgres,git,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,jquery,cs,git,postman&theme=light" />
   </a>
 </p>
 
